@@ -1,0 +1,4 @@
+flask
+flask-talisman
+kyber-py
+pycryptodome
